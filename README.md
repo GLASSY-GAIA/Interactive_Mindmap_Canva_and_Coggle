@@ -1,5 +1,7 @@
 ### INTERACTIVE MINDMAP ON CANVA
 
+**Hello, folks!** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 ![](https://static-cse.canva.com/blob/708748/stickers.jpg)
 
 **OBJECTIVES**
